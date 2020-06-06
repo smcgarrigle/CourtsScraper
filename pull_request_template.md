@@ -1,5 +1,6 @@
 A Pull Request Template
 
+
 - [ ] Checking an element’s existence in javascript before running functions. 
 
 - [ ] Only nest data when necessary.
