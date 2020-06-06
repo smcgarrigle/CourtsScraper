@@ -1,4 +1,4 @@
-Pull Request Template
+A Pull Request Template
 
 - [ ] Checking an element’s existence in javascript before running functions. 
 
